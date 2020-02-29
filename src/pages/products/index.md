@@ -1,9 +1,9 @@
 ---
-templateKey: 'product-page'
+heading: Migliori Cuffie In Commercio
 path: /products
-title: Our Coffee
+templateKey: product-page
+title: Migliori Cuffie Bluetooth
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -99,3 +99,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
