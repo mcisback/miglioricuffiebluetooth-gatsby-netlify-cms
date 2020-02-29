@@ -9,16 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   viewBox="0 0 12.7 12.7"
+   width="180"
+   height="180"
+   viewBox="0 0 47.625 47.625"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="favicon.svg"
-   inkscape:export-filename="/home/mcisback/Dropbox/Development/miglioricuffiebluetooth-gatsby-netlify-cms/static/img/favicon-16x16.png"
-   inkscape:export-xdpi="31.83"
-   inkscape:export-ydpi="31.83">
+   sodipodi:docname="apple-touch-icon.svg"
+   inkscape:export-filename="/home/mcisback/Dropbox/Development/miglioricuffiebluetooth-gatsby-netlify-cms/static/img/apple-touch-icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="-42.332353"
-     inkscape:cy="77.857231"
+     inkscape:cx="-26.773593"
+     inkscape:cy="57.478624"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -61,7 +61,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-284.3)">
+     transform="translate(0,-249.375)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.72280693px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56807023"
@@ -79,10 +79,10 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Headphones"
-     transform="translate(0,-39.300001)">
+     transform="translate(0,-4.375001)">
     <g
        id="g2048"
-       transform="matrix(0.17542542,0,0,0.27544997,-0.23928198,38.504496)">
+       transform="matrix(0.62959609,0,0,0.73477759,0.34399117,8.2965859)">
       <g
          style="fill:#000080"
          transform="matrix(0.28907853,0,0,0.28907853,-0.89334817,-2.4501632)"
@@ -154,7 +154,7 @@
      id="layer2"
      inkscape:label="Text"
      style="display:none"
-     transform="translate(0,-39.300001)">
+     transform="translate(0,-4.375001)">
     <g
        aria-label="MIGLIORI CUFFIE BLUETOOTH"
        style="font-style:normal;font-weight:normal;font-size:15.49405193px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38735127"
