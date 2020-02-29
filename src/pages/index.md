@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Migliori Cuffie Bluetooth
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Migliori Cuffie Bluetooth
+subheading: Quali sono le migliori cuffie bluetooth in commercio ? Scoprilo con noi...
 mainpitch:
   title: Why Kaldi
   description: >
