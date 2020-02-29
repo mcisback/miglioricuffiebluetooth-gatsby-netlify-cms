@@ -45,7 +45,7 @@ export const IndexPageTemplate = ({
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
-            textAlign: center,
+            textAlign: 'center',
           }}
         >
           {title}
