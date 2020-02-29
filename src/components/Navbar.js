@@ -59,7 +59,6 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-            <img src={logo} alt="Migliori Cuffie Bluetooth" style={{ height: '5rem' }} />
               <Link className="navbar-item" to="/">
                 Home
               </Link>
